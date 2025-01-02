@@ -12,11 +12,11 @@ Welcome to the Cyber Threats & CVE Tracker repository! This repo is your one-sto
 
 ## 🎯 **Project Objectives**
 
-🛡️ Track CVEs: Stay updated with newly published CVEs and their technical details.
-🕵️ Monitor Software Exploits: Identify and analyze exploit kits and techniques.
-📂 Breach Insights: Understand high-profile breaches, their root causes, and impact.
-📊 Mitigation Strategies: Provide actionable steps to mitigate vulnerabilities and threats.
-🤝 Community Collaboration: Build a platform to share insights, tools, and solutions.
+🛡️ **Track CVEs:** Stay updated with newly published CVEs and their technical details.<br />
+🕵️ **Monitor Software Exploits:** Identify and analyze exploit kits and techniques.<br />
+📂 **Breach Insights:** Understand high-profile breaches, their root causes, and impact.<br />
+📊 **Mitigation Strategies:** Provide actionable steps to mitigate vulnerabilities and threats.<br />
+🤝 **Community Collaboration:** Build a platform to share insights, tools, and solutions.<br />
 
 ## Sources & APIs
 
