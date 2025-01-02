@@ -18,6 +18,15 @@ Welcome to the Cyber Threats & CVE Tracker repository! This repo is your one-sto
 📊 Mitigation Strategies: Provide actionable steps to mitigate vulnerabilities and threats.
 🤝 Community Collaboration: Build a platform to share insights, tools, and solutions.
 
+## Sources & APIs
+
+We aggregate data from reliable sources, including:
+
+🔗 [National Vulnerability Database (NVD)](https://nvd.nist.gov/)
+🔗 [Mitre CVE Database](https://cve.mitre.org/)
+🔗 [Exploit Database](https://www.exploit-db.com/)
+🔗 [Cybersecurity Blogs & News Feeds](https://www.bleepingcomputer.com/)
+
 
 
 <footer>
