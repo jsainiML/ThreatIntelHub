@@ -2,9 +2,8 @@
 
 <header>
 
-# CVE Tracker & Technical Insights 🌐
-
-Welcome to the CVE Tracker repository! This repo is your go-to source for staying up-to-date with the latest Common Vulnerabilities and Exposures (CVEs) and their associated technical details. 🚀 Whether you're a cybersecurity enthusiast, detection engineer, or pentester, this  will help you track and understand critical vulnerabilities effectively.
+# Cyber Threats & CVE Tracker 🌐
+Welcome to the Cyber Threats & CVE Tracker repository! This repo is your one-stop destination for tracking the latest Common Vulnerabilities and Exposures (CVEs), software exploits, and data breaches. 🚀 Whether you're a cybersecurity enthusiast, detection engineer, or pentester, this  will help you track and understand critical vulnerabilities effectively.
 
 </header>
 
@@ -13,10 +12,11 @@ Welcome to the CVE Tracker repository! This repo is your go-to source for stayin
 
 ## 🎯 **Project Objectives**
 
-🛡️ Track CVEs: Get real-time updates on newly published CVEs.
-🔍 Technical Analysis: Dive deep into the technical details of each CVE.
-📊 Mitigation Strategies: Provide actionable guidance to secure affected systems.
-🤝 Collaboration: Build a community-driven platform for sharing insights and discussing solutions.
+🛡️ Track CVEs: Stay updated with newly published CVEs and their technical details.
+🕵️ Monitor Software Exploits: Identify and analyze exploit kits and techniques.
+📂 Breach Insights: Understand high-profile breaches, their root causes, and impact.
+📊 Mitigation Strategies: Provide actionable steps to mitigate vulnerabilities and threats.
+🤝 Community Collaboration: Build a platform to share insights, tools, and solutions.
 
 
 
